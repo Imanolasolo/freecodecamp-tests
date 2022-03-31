@@ -1,7 +1,7 @@
 JavaScript Algorithms and Data Structures
 =========================================
 
-![![download](https://user-images.githubusercontent.com/86312558/161146768-956dd6b5-19d8-4585-ba1c-fb40eb8f8fdd.png)
+![download](https://user-images.githubusercontent.com/86312558/161146768-956dd6b5-19d8-4585-ba1c-fb40eb8f8fdd.png)
 
 While HTML and CSS control the content and styling of a page, JavaScript is used to make it interactive. In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.
 
