@@ -3,6 +3,10 @@ JavaScript Algorithms and Data Structures
 
 ![download](https://user-images.githubusercontent.com/86312558/161146768-956dd6b5-19d8-4585-ba1c-fb40eb8f8fdd.png)
 
+## Instalation and downloads
+
+[link](https://github.com/Imanolasolo/freecodecamp-tests/tree/master/Javascript)
+
 While HTML and CSS control the content and styling of a page, JavaScript is used to make it interactive. In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.
 
 Once you have the fundamentals down, you'll apply that knowledge by creating algorithms to manipulate strings, factorialize numbers, and even calculate the orbit of the International Space Station.
